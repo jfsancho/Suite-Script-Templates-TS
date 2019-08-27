@@ -1,0 +1,15 @@
+{
+    "name": "Suitelet Script Template",
+    "variables": [
+        { "name": "fileName", 
+            "style": {
+                "case": "pascalCase"
+            }
+        },
+        {   "name": "author", 
+            "defaultValue": "Javier Sancho", 
+            "style": {
+                "noTransformation": true
+            }
+        }]
+}
