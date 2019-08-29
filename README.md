@@ -14,6 +14,7 @@ ClientScript
 RESTletScript
 UserEventScript
 Suitelet Script
+ScheduledScript
 
 To use the templates:
 1. On command Palette (ctrl + shift+ p) type template: New File / Folder From Template
