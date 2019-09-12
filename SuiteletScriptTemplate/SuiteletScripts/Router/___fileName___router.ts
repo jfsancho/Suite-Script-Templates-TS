@@ -15,6 +15,8 @@ import * as http from 'N/http'
 
 import * as controller from '../Controllers/___fileName___Controller'
 
+import * as constants from '../Constants/Constants'
+
 export function onRequest(pContext : EntryPoints.Suitelet.onRequestContext) {
     try {
         var eventMap = {}; //event router pattern design

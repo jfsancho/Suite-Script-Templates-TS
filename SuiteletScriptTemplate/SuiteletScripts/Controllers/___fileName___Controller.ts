@@ -9,3 +9,5 @@ import * as log from "N/log"
 import * as view from '../Views/___fileName___View'
 //import the models
 import * as model from '../Models/___fileName___Model'
+
+import * as constants from '../Constants/Constants'
