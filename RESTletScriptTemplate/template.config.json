@@ -3,7 +3,7 @@
     "variables": [
         { "name": "fileName", 
             "style": {
-                "case": "pascalCase"
+                "noTransformation": true
             }
         },
         {   "name": "author", 
