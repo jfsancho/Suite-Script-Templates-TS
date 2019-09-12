@@ -1,0 +1,15 @@
+{
+    "name": "MassUpdate Script Template",
+    "variables": [
+        { "name": "fileName", 
+            "style": {
+                "noTransformation": true
+            }
+        },
+        {   "name": "author", 
+            "defaultValue": "Javier Sancho", 
+            "style": {
+                "noTransformation": true
+            }
+        }]
+}
